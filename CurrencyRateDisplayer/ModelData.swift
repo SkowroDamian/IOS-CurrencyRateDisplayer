@@ -14,7 +14,7 @@ class ModelData: ObservableObject {
 
 func loadData<T:Decodable>() -> T {
     
-    let api_key = "8c593bc64ffa740f9338215a3341d0c4"
+    let api_key = "XXXXXXXXX"
     let url_base = "http://data.fixer.io/api/latest"
     //let base = "GBP"
     let symbols = "USD,AUD,CAD,PLN,MXN"
