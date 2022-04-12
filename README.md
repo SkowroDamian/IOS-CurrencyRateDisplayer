@@ -1,2 +1,2 @@
 # IOS-CurrencyRateDisplayer
-basic app to show currency rates from fixer.io's API
+basic app showing currency rates from fixer.io's API
